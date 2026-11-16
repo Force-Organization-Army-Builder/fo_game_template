@@ -12,7 +12,7 @@
         "format": "prettier --write"
     },
     "devDependencies": {
-        "@force-org/data-validator": "git+https://github.com/Force-Organization-Army-Builder/fo_data_validator.git#v1.10.0",
+        "@force-org/data-validator": "git+https://github.com/Force-Organization-Army-Builder/fo_data_validator.git#v1.14.0",
         "prettier": "^3.0.0"
     }
 }
